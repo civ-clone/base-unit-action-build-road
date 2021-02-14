@@ -4,7 +4,7 @@ import {
   IMovementCostRegistry,
 } from '@civ-clone/core-unit/Rules/MovementCost';
 import DelayedAction from '@civ-clone/core-unit/DelayedAction';
-import { Road } from '@civ-clone/base-tile-improvement-road/Road';
+import Road from '@civ-clone/base-tile-improvement-road/Road';
 
 export class BuildRoad extends DelayedAction {
   perform(): void {
