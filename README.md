@@ -1,4 +1,3 @@
 # base-unit-action-build-road
 
-This is a template repo.
-
+This package provides the `BuildRoad` `Action` for `Unit`s.
